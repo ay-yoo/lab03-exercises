@@ -72,12 +72,12 @@ Before, It only showed untracked files because there was no change. But in #1.5,
 
 In one or two sentences each, what does each command do?
 
-- `git init`
-- `git status`
-- `git add`
-- `git commit`
-- `git log`
-- `git diff`
+- `git init`: it is used for setting. It does basic setting to use git
+- `git status`: It shows our status (ex. files untracked, commits)
+- `git add`: It add file to track.
+- `git commit`: It captures moment.
+- `git log`: It shows commit logs.
+- `git diff`: It shows differences in local file.
 
 ### 1.7 Repository link
 
